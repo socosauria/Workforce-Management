@@ -111,23 +111,9 @@ Flujo configurado en Power Automate para:
 - Modelos predictivos de rotación de personal.
 - Análisis de capacidad y demanda mediante Machine Learning.
  
-## 11. Enlaces del Proyecto
-  
-- **Repositorio de código (GitHub):** `<https://github.com/No-Country-simulation/S06-26-NC-Equipo-94-Workforce-Management.git>`
-- **Dashboard publicado (Power BI Service):** `<https://app.fabric.microsoft.com/view?r=eyJrIjoiMjRmNzZjMDEtNTFkNC00NjA3LTg5OWItYmI1ZDEzYjhmZjE4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9>`
-- **Dataset / carpeta de datos (Google Drive):** `<enlace pendiente>`
-- **Documento de framework / propuesta conceptual:** `<https://docs.google.com/document/d/1jU8Wb_MsmMeE9AmWmWBDQJAY8Shdxgzt-cUCSGR-dOY/edit?tab=t.0#heading=h.dti9y3lmio3y>`
- 
-## 12. Equipo
- 
-- `<S06-26-NC-Equipo-94-Workforce-Management>`
+
+`
 
 ### Vista general
 
-<img src="https://github.com/user-attachments/assets/b78a8092-61af-4dab-86ac-ada18ce2603e" width="900"/> 
-
-<br><br>
-
-### Análisis detallado
-
-<img src="https://github.com/user-attachments/assets/54efbdd8-2abe-493b-b444-401d53939c66" width="900"/>
+<>
